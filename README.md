@@ -1,5 +1,3 @@
 # csf-gtfs-release
-clearinghouse for GTFS archive representing Cross Sound Ferry
-This should be compatible with the predominant Google Maps integration
-that would allow navigation and promote use of the New London - Orient Point connection 
-for travel.
+Clearinghouse for General Transit Feed Specification (GTFS) .zip archive representing Cross Sound Ferry schedules
+This should be compatible with Google Maps to allow automobile navigation and promote use of the New London - Orient Point ferry
