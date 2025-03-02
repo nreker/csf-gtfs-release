@@ -1,2 +1,2 @@
-# csf-gtfs-releae
-clearinghouse for gifts archive
+# csf-gtfs-release
+clearinghouse for GTFS archive
